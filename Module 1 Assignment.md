@@ -8,8 +8,8 @@ The idea behind Square was to democratize access to payment processing for small
 
 This simple idea sparked the founding of Square, Inc. in 2009, and the company quickly gained traction, revolutionizing the way payments are accepted and processed in the modern digital economy.
 
-
-!(Funding.png)
+## Funding
+![Funding](Funding.png)
 
 Square has received funding through various rounds of venture capital financing, as well as through its initial public offering (IPO) in 2015. Here's a brief overview of Square's funding history:
 
@@ -22,10 +22,10 @@ As for the total amount of funding Square has received, it's important to note t
 
 
 
+## Solutions
+![solutions](solutions.jpeg)
 
-!(solutions.jpeg)
-
-Square's solution addressed several key pain points:
+**Square's solution addressed several key pain points:**
 
 1. **Cost**: Traditional payment processing solutions often involved high setup fees, monthly service charges, and transaction fees. Square offered a transparent pricing model with no monthly fees and competitive transaction rates, making it more affordable for small businesses and individuals to accept card payments.
 1. **Complexity**: Setting up a merchant account and acquiring the necessary hardware for card payments could be complex and time-consuming. Square simplified the process by providing an all-in-one solution that included the card reader and easy-to-use mobile apps for payment processing, inventory management, and reporting.
@@ -39,7 +39,7 @@ According to the U.S. Small Business Administration (SBA), as of 2020, there wer
 Similarly, in other countries around the world, small businesses and independent contractors make up a substantial portion of the business landscape. As the global economy continues to evolve, with increasing digitization and a growing emphasis on entrepreneurship, the market for Square's products and services among small businesses and individuals is likely to remain significant and continue to grow.
 
 
-Square has leveraged several factors to establish a competitive edge in the financial services and payment processing industry. Here are some key aspects of Square's unfair advantage:
+**Square has leveraged several factors to establish a competitive edge in the financial services and payment processing industry. Here are some key aspects of Square's unfair/Competitive advantage:**
 
 1. **Simplicity and Accessibility**: Square's products and services are designed to be incredibly simple and accessible, catering to the needs of small businesses and individuals who may lack technical expertise or resources. The Square Reader, for example, is easy to use and can be set up quickly with just a smartphone or tablet. This simplicity has made Square a popular choice among small merchants, artisans, and independent contractors who value ease of use and convenience.
 1. **Innovative Technology**: Square has demonstrated a commitment to innovation, continuously developing new products and features to meet the evolving needs of its customers. From contactless payment options to integrations with digital wallets and cryptocurrency, Square has embraced emerging technologies to enhance its offerings and stay ahead of the competition.
@@ -49,7 +49,7 @@ Square has leveraged several factors to establish a competitive edge in the fina
 
 Overall, Square's unfair advantage lies in its ability to combine simplicity, innovation, integration, data analytics, and brand trust to offer compelling solutions that empower small businesses and individuals to thrive in the digital economy.
 
-
+## Competitors
 In the financial technology (fintech) and payment processing domain, Square competes with several major companies, each offering a range of products and services targeting similar customer segments. Some of the key competitors of Square include:
 
 1. **PayPal**: PayPal is one of the largest and most well-known payment processing companies globally. It offers a wide range of services, including online payments, peer-to-peer transfers (through Venmo), merchant services, and business financing.
@@ -61,7 +61,7 @@ In the financial technology (fintech) and payment processing domain, Square comp
 
 These companies, along with others in the industry, compete with Square in various aspects of payment processing, financial services, and technology solutions. Each company may have its own strengths, focus areas, and target markets, contributing to a dynamic and competitive landscape in the fintech industry.
 
-
+## Performance Metrics
 In the fintech and payment processing domain, companies typically use a variety of metrics to measure success and evaluate their performance. Some of the core metrics include:
 
 1. **Total Payment Volume (TPV)**: TPV represents the total value of transactions processed through a company's payment processing platform. It is a key indicator of the company's market share and revenue generation.
@@ -76,7 +76,7 @@ In the fintech and payment processing domain, companies typically use a variety 
 
 As for Square's performance based on these metrics, I don't have access to real-time data. However, historically, Square has demonstrated strong growth in metrics like TPV, revenue, and active users. Its innovative products and services, coupled with its expanding ecosystem, have contributed to its success in the fintech industry. For the most up-to-date information on Square's performance, you can refer to its financial reports, earnings calls, and investor presentations.
 
-
+## Recomendation:
 
 If I were to advise Square on potential products or services to offer, I would consider several factors, including market demand, customer needs, and strategic alignment with Square's existing offerings and capabilities. Here are a few ideas:
 
@@ -84,3 +84,7 @@ If I were to advise Square on potential products or services to offer, I would c
 1. **Integrated Marketing Solutions**: Square could develop integrated marketing solutions to help small businesses attract and retain customers. This could include tools for email marketing, social media advertising, customer relationship management (CRM), and loyalty programs, all seamlessly integrated with Square's existing point-of-sale and payment processing platform.
 1. **International Expansion and Global Payments**: Focusing on international expansion and offering solutions for global payments could help Square tap into new markets and serve businesses operating internationally. This could involve supporting multiple currencies, cross-border transactions, compliance with international regulations, and localization of products and services for specific regions.
 
+## Reference 
+1. **https://www.investopedia.com/articles/tech/021017/square.asp**
+2. **https://businessdegrees.uab.edu/blog/how-square-revolutionized-payment-processing/**
+3. **https://squareup.com/ca/en/why-square?country_redirection=true**
